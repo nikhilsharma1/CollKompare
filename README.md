@@ -1,0 +1,2 @@
+# CollKompare
+University Search Engine
